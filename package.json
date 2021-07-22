@@ -1,0 +1,22 @@
+{
+  "name": "myapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurieden/mybackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurieden/mybackend/issues"
+  },
+  "homepage": "https://github.com/jurieden/mybackend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
